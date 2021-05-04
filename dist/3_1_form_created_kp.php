@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Список заказов - нет</title>
+	<title>Форма созданного кп</title>
 	<? include('inc/head.php'); ?>
 </head>
 <body>
@@ -14,25 +14,27 @@
 		<div class="container">
 			<div class="content">
 				<ul class="content__nav">
-					<li><span>Сформировать Заказ или КП</span></li>
-					<li class="active"><span>Список всех заказов</span></li>
+					<li class="active"><span>Сформировать Заказ или КП</span></li>
+					<li><span>Список всех заказов</span></li>
 					<li><span>Список всех КП</span></li>
 					<li><span>Список возвратов</span><span class="badge">23</span></li>
 				</ul>
 				<ul class="content__container">
-					<li>
+					<li class="active">
 						<div class="order-container">
 							<div class="row">
 								<div class="col-lg-8">
 									<form action="" class="form">
 										<div class="buttons-group">
 											<button type="button" class="btn btn-sm btn-default btn-hide">Скрыть наценку</button>
-											<button type="button" class="btn btn-sm btn-default btn-add">Добавить услугу</button>
+											<button type="button" class="btn btn-sm btn-default btn-add">Добавить товары</button>
 										</div>
 
 										<div class="order-content">
 											<div class="caption">
-												<h2 class="caption__title">Товары</h2>
+												<div class="flex">
+													<h2 class="caption__title">Коммерческое предложение №235235235</h2>
+												</div>
 											</div>
 											<div class="table-wrapper-overflow">
 												<table class="table table-goods fullWidth">
@@ -43,8 +45,8 @@
 															<th>Наименование</th>
 															<th>Кол-во</th>
 															<th>Цена в руб.</th>
-															<th>Наценка, за шт. (для КП)</th>
-															<th>Сумма с наценкой (для КП)</th>
+															<th>Наценка, за шт. в руб.</th>
+															<th>Сумма с наценкой в руб.</th>
 															<th></th>
 														</tr>
 													</thead>
@@ -53,26 +55,26 @@
 															<td>
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
-															<td>65HGKG56</td>
+															<td><nobr>65HGKG56</nobr></td>
 															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
 															<td>
 																<? include('inc/quantitat.php'); ?>
 															</td>
-															<td>98 678.34</td>
-															<td><div class="large">₽  /  %</div></td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
+															<td><nobr><div class="large">₽  /  %</div></nobr></td>
+															<td><nobr>98 678.34</nobr></td>
 															<td><button type="button" class="close"></button></td>
 														</tr>
 														<tr>
 															<td>
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
-															<td>65HGKG56</td>
+															<td><nobr>65HGKG56</nobr></td>
 															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
 															<td>
 																<? include('inc/quantitat.php'); ?>
 															</td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
 															<td>
 																<div class="entryform">
 																	<div class="ef-wrapper">
@@ -82,58 +84,21 @@
 																	<button type="button" class="close"></button>
 																</div>
 															</td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
 															<td><button type="button" class="close"></button></td>
 														</tr>
 														<tr>
 															<td>
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
-															<td>65HGKG56</td>
+															<td><nobr>65HGKG56</nobr></td>
 															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
 															<td>
 																<? include('inc/quantitat.php'); ?>
 															</td>
-															<td>98 678.34</td>
-															<td><div class="large">₽  /  %</div></td>
-															<td>98 678.34</td>
-															<td><button type="button" class="close"></button></td>
-														</tr>
-													</tbody>
-												</table>
-											</div>
-
-											<div class="caption">
-												<h2 class="caption__title">Услуги</h2>
-											</div>
-											<div class="table-wrapper-overflow">
-												<table class="table table-services fullWidth">
-													<thead>
-														<tr>
-															<th>Наименование</th>
-															<th>Кол-во</th>
-															<th>Цена в руб.</th>
-														</tr>
-													</thead>
-													<tbody>
-														<tr>
-															<td>
-																Наименование добавленной услуги
-															</td>
-															<td>
-																<? include('inc/quantitat.php'); ?>
-															</td>
-															<td>98 678.34</td>
-															<td><button type="button" class="close"></button></td>
-														</tr>
-														<tr>
-															<td>
-																Наименование добавленной услуги
-															</td>
-															<td>
-																<? include('inc/quantitat.php'); ?>
-															</td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
+															<td><nobr><div class="large">₽  /  %</div></nobr></td>
+															<td><nobr>98 678.34</nobr></td>
 															<td><button type="button" class="close"></button></td>
 														</tr>
 													</tbody>
@@ -143,7 +108,7 @@
 
 										<div class="buttons-group">
 											<button type="button" class="btn btn-sm btn-default btn-hide">Скрыть наценку</button>
-											<button type="button" class="btn btn-sm btn-default btn-add">Добавить услугу</button>
+											<button type="button" class="btn btn-sm btn-default btn-add">Добавить товары</button>
 										</div>
 
 										<div class="cost-container">
@@ -251,12 +216,6 @@
 									<? include('inc/aside.php'); ?>
 								</div>
 							</div>
-						</div>
-					</li>
-					<li class="active">
-						<div class="empty-container">
-							<p>Вы пока еще не создали ни одного заказа</p>
-							<a href="#" class="btn btn-primary">Создать заказ</a>
 						</div>
 					</li>
 				</ul>

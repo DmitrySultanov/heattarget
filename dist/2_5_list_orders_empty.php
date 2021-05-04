@@ -15,19 +15,17 @@
 			<div class="content">
 				<ul class="content__nav">
 					<li><span>Сформировать Заказ или КП</span></li>
-					<li><span>Список всех заказов</span></li>
+					<li class="active"><span>Список всех заказов</span></li>
 					<li><span>Список всех КП</span></li>
-					<li class="active"><span>Список возвратов</span><span class="badge">23</span></li>
+					<li><span>Список возвратов</span><span class="badge">23</span></li>
 				</ul>
 				<ul class="content__container">
-					<li></li>
-					<li></li>
 					<li></li>
 					<li class="active">
 						<div class="empty-container">
 							<div>
-								<p>Вы пока еще не создали ни одного возврата</p>
-								<a href="#" class="btn btn-primary">Создать возврат</a>
+								<p>Вы пока еще не создали ни одного заказа</p>
+								<a href="#" class="btn btn-primary">Создать заказ</a>
 							</div>
 						</div>
 					</li>

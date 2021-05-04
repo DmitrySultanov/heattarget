@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Форма записанного заказа в наличии</title>
+	<title>Форма записанного заказа под заказ</title>
 	<? include('inc/head.php'); ?>
 </head>
 <body>
@@ -33,7 +33,7 @@
 													<h2 class="caption__title">Заказ №235235235</h2>
 													<div class="caption__status-order caption__status-in-processing">В обработке</div>
 												</div>
-												<div class="caption__status-stock caption__status-stock_presence">в наличии</div>
+												<div class="caption__status-stock caption__status-stock_absence">под заказ</div>
 											</div>
 											<div class="table-wrapper-overflow">
 												<table class="table table-goods">
@@ -139,7 +139,7 @@
 												<td><nobr>22.01.2021</nobr></td>
 												<td><nobr>98 678.34</nobr></td>
 												<td class="center"><span class="pay-status pay-status-check"></span></td>
-												<td class="center"><span class="status status-in-processing status-dot">В обработке</span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
 											</tr>
 											<tr>
 												<td>
@@ -148,16 +148,7 @@
 												<td><nobr>22.01.2021</nobr></td>
 												<td><nobr>98 678.34</nobr></td>
 												<td class="center"><span class="pay-status pay-status-denied"></span></td>
-												<td class="center"><span class="status status-denied status-dot">Отменен</span></td>
-											</tr>
-											<tr>
-												<td>
-													<nobr><a href="#">24525</a></nobr>
-												</td>
-												<td><nobr>22.01.2021</nobr></td>
-												<td><nobr>98 678.34</nobr></td>
-												<td class="center"><span class="pay-status pay-status-check"></span></td>
-												<td class="center"><span class="status status-ordered-supplier status-dot">Заказан поставщику</span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
 											</tr>
 											<tr>
 												<td>
@@ -175,7 +166,7 @@
 												<td><nobr>22.01.2021</nobr></td>
 												<td><nobr>98 678.34</nobr></td>
 												<td class="center"><span class="pay-status pay-status-check"></span></td>
-												<td class="center"><span class="status status-partially-shipped status-dot">Частично отгружен</span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
 											</tr>
 											<tr>
 												<td>
@@ -184,7 +175,7 @@
 												<td><nobr>22.01.2021</nobr></td>
 												<td><nobr>98 678.34</nobr></td>
 												<td class="center"><span class="pay-status pay-status-check"></span></td>
-												<td class="center"><span class="status status-shipped status-dot">Отгpужен</span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
 											</tr>
 											<tr>
 												<td>
@@ -193,7 +184,7 @@
 												<td><nobr>22.01.2021</nobr></td>
 												<td><nobr>98 678.34</nobr></td>
 												<td class="center"><span class="pay-status pay-status-check"></span></td>
-												<td class="center"><span class="status status-in-processing status-dot">В обработке</span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
 											</tr>
 											<tr>
 												<td>
@@ -202,7 +193,7 @@
 												<td><nobr>22.01.2021</nobr></td>
 												<td><nobr>98 678.34</nobr></td>
 												<td class="center"><span class="pay-status pay-status-check"></span></td>
-												<td class="center"><span class="status status-in-processing status-dot">В обработке</span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
 											</tr>
 											<tr>
 												<td>
@@ -211,7 +202,7 @@
 												<td><nobr>22.01.2021</nobr></td>
 												<td><nobr>98 678.34</nobr></td>
 												<td class="center"><span class="pay-status pay-status-check"></span></td>
-												<td class="center"><span class="status status-in-processing status-dot">В обработке</span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
 											</tr>
 											<tr>
 												<td>
@@ -220,7 +211,7 @@
 												<td><nobr>22.01.2021</nobr></td>
 												<td><nobr>98 678.34</nobr></td>
 												<td class="center"><span class="pay-status pay-status-check"></span></td>
-												<td class="center"><span class="status status-in-processing status-dot">В обработке</span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
 											</tr>
 											<tr>
 												<td>
@@ -229,7 +220,16 @@
 												<td><nobr>22.01.2021</nobr></td>
 												<td><nobr>98 678.34</nobr></td>
 												<td class="center"><span class="pay-status pay-status-check"></span></td>
-												<td class="center"><span class="status status-in-processing status-dot">В обработке</span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
+											</tr>
+											<tr>
+												<td>
+													<nobr><a href="#">24525</a></nobr>
+												</td>
+												<td><nobr>22.01.2021</nobr></td>
+												<td><nobr>98 678.34</nobr></td>
+												<td class="center"><span class="pay-status pay-status-check"></span></td>
+												<td class="center"><span class="status status-reserve status-dot">В резерве</span></td>
 											</tr>
 										</tbody>
 									</table>

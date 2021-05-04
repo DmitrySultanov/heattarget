@@ -5,17 +5,45 @@
 				<ul class="navigation">
 					<li class="navigation-item navigation-item--has-submenu">
 						<a href="#">Каталог</a>
+						<ul class="submenu">
+							<li><a href="#">Каталог</a></li>
+							<li><a href="#">Доставка</a></li>
+							<li><a href="#">Доставка</a></li>
+							<li><a href="#">Доставка</a></li>
+							<li><a href="#">Акции</a></li>
+							<li><a href="#">Компания</a></li>
+							<li><a href="#">Контакты</a></li>
+						</ul>
 					</li>
 					<li class="navigation-item navigation-item--has-submenu">
 						<a href="#">Доставка</a>
+						<ul class="submenu">
+							<li><a href="#">Каталог</a></li>
+							<li><a href="#">Доставка</a></li>
+							<li><a href="#">Контакты</a></li>
+						</ul>
 					</li>
 					<li class="navigation-item navigation-item--has-submenu">
 						<a href="#">Акции</a>
+						<ul class="submenu">
+							<li><a href="#">Каталог</a></li>
+							<li><a href="#">Доставка</a></li>
+							<li><a href="#">Акции</a></li>
+							<li><a href="#">Компания</a></li>
+							<li><a href="#">Контакты</a></li>
+						</ul>
 					</li>
 					<li class="navigation-item navigation-item--has-submenu">
 						<a href="#">Компания</a>
+						<ul class="submenu">
+							<li><a href="#">Каталог</a></li>
+							<li><a href="#">Доставка</a></li>
+							<li><a href="#">Акции</a></li>
+							<li><a href="#">Компания</a></li>
+							<li><a href="#">Контакты</a></li>
+						</ul>
 					</li>
-					<li class="navigation-item navigation-item--has-submenu">
+					<li class="navigation-item">
 						<a href="#">Контакты</a>
 					</li>
 				</ul>

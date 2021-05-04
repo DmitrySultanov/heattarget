@@ -2,11 +2,11 @@ $(function() {
 
 	function init() {
         bindEvents()
+        initAccordion()
         initSelect2()
         initTabs()
         quantityCounter()
         initBannersSlider()
-        initAccordion()
         initOnlyNumber()
     }
 
@@ -131,9 +131,26 @@ $(function() {
 
     function initAccordion() {
         $(".js-accordion").accordionjs({
-          slideSpeed  : 300,
-          activeIndex: false,
-          closeOther  : false,
+            slideSpeed  : 300,
+            activeIndex: false,
+            closeOther  : false,
+            openSection: function(section){
+               const cards = $(section).children('.acc_content').children('.g-cards');
+               const card = cards.find('.g-card');
+
+                $.each(card, function(index, value) {
+                    $(value).find('.g-card__name').dotdotdot({
+                        height: 54
+                    })
+                });
+
+                if(cards.length) {
+                    cards.mCustomScrollbar({
+                        theme: "dark",
+                        scrollbarPosition: "outside"
+                    });
+                }
+            },
         });
     }
 
@@ -167,7 +184,6 @@ $(function() {
         } else {
             $(this).text('Показать адрес объекта');
         }
-
     }
 
     init()

@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Форма записанного заказа в наличии</title>
+	<title>Выберите позиции для возврата</title>
 	<? include('inc/head.php'); ?>
 </head>
 <body>
@@ -31,12 +31,16 @@
 											<div class="caption">
 												<div class="flex">
 													<h2 class="caption__title">Заказ №235235235</h2>
-													<div class="caption__status-order caption__status-in-processing">В обработке</div>
 												</div>
-												<div class="caption__status-stock caption__status-stock_presence">в наличии</div>
+												<p>Выберите позиции для возврата:</p>
 											</div>
 											<div class="table-wrapper-overflow">
-												<table class="table table-goods">
+												<table class="table table-choose-refund table-striped">
+													<colgroup>
+														<col width="50">
+														<col width="80">
+														<col width="100">
+													</colgroup>
 													<colgroup>
 														<col>
 														<col>
@@ -44,77 +48,94 @@
 													</colgroup>
 													<thead>
 														<tr>
+															<th></th>
 															<th>Фото</th>
 															<th>Артикул</th>
 															<th>Наименование</th>
-															<th>Кол-во</th>
-															<th>Цена в руб.</th>
 														</tr>
 													</thead>
 													<tbody>
 														<tr>
 															<td>
+																<div class="form-check">
+																	<label>
+																  		<input class="form-check-input" type="radio" name="" value="" aria-label=""><i></i>
+																	</label>
+																</div>
+															</td>
+															<td>
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
 															<td><nobr>65HGKG56</nobr></td>
 															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
-															<td>
-																<? include('inc/quantitat.php'); ?>
-															</td>
-															<td><nobr>98 678.34</nobr></td>
 														</tr>
 														<tr>
 															<td>
+																<div class="form-check">
+																	<label>
+																  		<input class="form-check-input" type="radio" name="" value="" aria-label=""><i></i>
+																	</label>
+																</div>
+															</td>
+															<td>
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
 															<td><nobr>65HGKG56</nobr></td>
 															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
-															<td>
-																<? include('inc/quantitat.php'); ?>
-															</td>
-															<td><nobr>98 678.34</nobr></td>
 														</tr>
 														<tr>
 															<td>
+																<div class="form-check">
+																	<label>
+																  		<input class="form-check-input" type="radio" name="" value="" aria-label=""><i></i>
+																	</label>
+																</div>
+															</td>
+															<td>
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
 															<td><nobr>65HGKG56</nobr></td>
 															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
+														</tr>
+														<tr>
 															<td>
-																<? include('inc/quantitat.php'); ?>
+																<div class="form-check">
+																	<label>
+																  		<input class="form-check-input" type="radio" name="" value="" aria-label=""><i></i>
+																	</label>
+																</div>
 															</td>
-															<td><nobr>98 678.34</nobr></td>
+															<td>
+																<img src="assets/img/good1.png" alt=""/>
+															</td>
+															<td><nobr>65HGKG56</nobr></td>
+															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
+														</tr>
+														<tr>
+															<td>
+																<div class="form-check">
+																	<label>
+																  		<input class="form-check-input" type="radio" name="" value="" aria-label=""><i></i>
+																	</label>
+																</div>
+															</td>
+															<td>
+																<img src="assets/img/good1.png" alt=""/>
+															</td>
+															<td><nobr>65HGKG56</nobr></td>
+															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
 														</tr>
 													</tbody>
 												</table>
 											</div>
 										</div>
 
-										<div class="cost-container">
-											<div class="cost-column">
-												<p>Стоимость товаров: <strong>115 201,33 руб.</strong></p>
-												<p class="total-cost">Общая стоимость: <strong>125 201,33 руб.</strong></p>
-											</div>
-											<div class="cost-column">
-												<p><span>Вес: <strong>103 кг</strong></span></p>
-											</div>
-											<div class="cost-column">
-												<p><span>Объем: <strong>10 м3</strong></span></p>
-											</div>
-										</div>
-
 										<div class="buttons-container">
 											<div class="row">
 												<div class="col">
-													<button type="submit" class="btn btn-primary">Распечатать</button>
+													<button type="submit" class="btn btn-primary">Создать возврат</button>
 												</div>
 											</div>
-										</div>
-
-										<div class="buttons-group">
-											<button type="button" class="btn btn-sm btn-default">Оплатить</button>
-											<button type="button" class="btn btn-sm btn-default">Отменить</button>
-											<button type="button" class="btn btn-sm btn-default">Создать новый копированием</button>
 										</div>
 									</form>
 								</div>

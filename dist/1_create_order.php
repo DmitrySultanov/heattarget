@@ -32,7 +32,9 @@
 
 										<div class="order-content">
 											<div class="caption">
-												<h2 class="caption__title">Товары</h2>
+												<div class="flex">
+													<h2 class="caption__title">Товары</h2>
+												</div>
 											</div>
 											<div class="table-wrapper-overflow">
 												<table class="table table-goods fullWidth">
@@ -53,26 +55,26 @@
 															<td>
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
-															<td>65HGKG56</td>
+															<td><nobr>65HGKG56</nobr></td>
 															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
 															<td>
 																<? include('inc/quantitat.php'); ?>
 															</td>
-															<td>98 678.34</td>
-															<td><div class="large">₽  /  %</div></td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
+															<td><nobr><div class="large">₽  /  %</div></nobr></td>
+															<td><nobr>98 678.34</nobr></td>
 															<td><button type="button" class="close"></button></td>
 														</tr>
 														<tr>
 															<td>
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
-															<td>65HGKG56</td>
+															<td><nobr>65HGKG56</nobr></td>
 															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
 															<td>
 																<? include('inc/quantitat.php'); ?>
 															</td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
 															<td>
 																<div class="entryform">
 																	<div class="ef-wrapper">
@@ -82,29 +84,69 @@
 																	<button type="button" class="close"></button>
 																</div>
 															</td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
 															<td><button type="button" class="close"></button></td>
 														</tr>
 														<tr>
 															<td>
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
-															<td>65HGKG56</td>
+															<td><nobr>65HGKG56</nobr></td>
 															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
 															<td>
 																<? include('inc/quantitat.php'); ?>
 															</td>
-															<td>98 678.34</td>
-															<td><div class="large">₽  /  %</div></td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
+															<td><nobr><div class="large">₽  /  %</div></nobr></td>
+															<td><nobr>98 678.34</nobr></td>
+															<td><button type="button" class="close"></button></td>
+														</tr>
+														<tr>
+															<td>
+																<img src="assets/img/good1.png" alt=""/>
+															</td>
+															<td><nobr>65HGKG56</nobr></td>
+															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
+															<td>
+																<? include('inc/quantitat.php'); ?>
+															</td>
+															<td><nobr>98 678.34</nobr></td>
+															<td><nobr><div class="large">₽  /  %</div></nobr></td>
+															<td><nobr>98 678.34</nobr></td>
+															<td><button type="button" class="close"></button></td>
+														</tr>
+														<tr>
+															<td>
+																<img src="assets/img/good1.png" alt=""/>
+															</td>
+															<td><nobr>65HGKG56</nobr></td>
+															<td><a href="#">Котел газовый Волк 16 KSO снят с пр-ва</a></td>
+															<td>
+																<? include('inc/quantitat.php'); ?>
+															</td>
+															<td><nobr>98 678.34</nobr></td>
+															<td><nobr><div class="large">₽  /  %</div></nobr></td>
+															<td><nobr>98 678.34</nobr></td>
 															<td><button type="button" class="close"></button></td>
 														</tr>
 													</tbody>
 												</table>
 											</div>
+											<nav aria-label="table-goods-navigation">
+											  <ul class="pagination">
+											    <li class="page-item"><a class="page-link" href="#">1</a></li>
+											    <li class="page-item"><a class="page-link" href="#">2</a></li>
+											    <li class="page-item active"><a class="page-link" href="#">3</a></li>
+											    <li class="page-item"><a class="page-link" href="#">4</a></li>
+											    <li class="page-item"><a class="page-link" href="#">5</a></li>
+											    <li class="page-item"><a class="page-link" href="#">6</a></li>
+											  </ul>
+											</nav>
 
 											<div class="caption">
-												<h2 class="caption__title">Услуги</h2>
+												<div class="flex">
+													<h2 class="caption__title">Услуги</h2>
+												</div>
 											</div>
 											<div class="table-wrapper-overflow">
 												<table class="table table-services fullWidth">
@@ -117,23 +159,19 @@
 													</thead>
 													<tbody>
 														<tr>
-															<td>
-																Наименование добавленной услуги
-															</td>
+															<td>Наименование добавленной услуги</td>
 															<td>
 																<? include('inc/quantitat.php'); ?>
 															</td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
 															<td><button type="button" class="close"></button></td>
 														</tr>
 														<tr>
-															<td>
-																Наименование добавленной услуги
-															</td>
+															<td>Наименование добавленной услуги</td>
 															<td>
 																<? include('inc/quantitat.php'); ?>
 															</td>
-															<td>98 678.34</td>
+															<td><nobr>98 678.34</nobr></td>
 															<td><button type="button" class="close"></button></td>
 														</tr>
 													</tbody>
