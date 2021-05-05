@@ -38,18 +38,13 @@
 												<table class="table table-choose-refund table-striped">
 													<colgroup>
 														<col width="50">
-														<col width="80">
+														<col width="70">
 														<col width="100">
-													</colgroup>
-													<colgroup>
-														<col>
-														<col>
-														<col width="180">
 													</colgroup>
 													<thead>
 														<tr>
 															<th></th>
-															<th>Фото</th>
+															<th class="center">Фото</th>
 															<th>Артикул</th>
 															<th>Наименование</th>
 														</tr>
@@ -63,7 +58,7 @@
 																	</label>
 																</div>
 															</td>
-															<td>
+															<td class="center">
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
 															<td><nobr>65HGKG56</nobr></td>
@@ -77,7 +72,7 @@
 																	</label>
 																</div>
 															</td>
-															<td>
+															<td class="center">
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
 															<td><nobr>65HGKG56</nobr></td>
@@ -91,7 +86,7 @@
 																	</label>
 																</div>
 															</td>
-															<td>
+															<td class="center">
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
 															<td><nobr>65HGKG56</nobr></td>
@@ -105,7 +100,7 @@
 																	</label>
 																</div>
 															</td>
-															<td>
+															<td class="center">
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
 															<td><nobr>65HGKG56</nobr></td>
@@ -119,7 +114,7 @@
 																	</label>
 																</div>
 															</td>
-															<td>
+															<td class="center">
 																<img src="assets/img/good1.png" alt=""/>
 															</td>
 															<td><nobr>65HGKG56</nobr></td>

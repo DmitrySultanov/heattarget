@@ -206,7 +206,7 @@
 													<div class="col-10">
 														<div class="form-group">
 															<p>Регион доставки:</p>
-															<div>
+															<div class="flex">
 	    														<select name="delivery-region" class="select-single" style="width: 100%;">
 	    															<option value="">Белгородская область</option>
 	    															<option value="">Белгородская область</option>
@@ -216,7 +216,7 @@
 														</div>
 														<div class="form-group">
 															<p>Город доставки:</p>
-															<div>
+															<div class="flex">
 	    														<select name="delivery-place" class="select-single" style="width: 100%;">
 	    															<option value="">Борисовка село</option>
 	    															<option value="">Борисовка село</option>
@@ -228,7 +228,7 @@
 															<div class="row no-gutters">
 																<div class="col-6">
 																	<p>Улица:</p>
-																	<div>
+																	<div class="flex">
 		        														<select name="delivery-street" class="select-single" style="width: 100%;">
 		        															<option value="">Гагарина</option>
 		        															<option value="">Гагарина</option>
@@ -238,19 +238,19 @@
 																</div>
 																<div class="col-2">
 																	<p>Дом:</p>
-																	<div>
+																	<div class="flex">
 		        														<input type="text" name="" class="form-control onlyNumber" min="1" maxlength="3" value="12">
 																	</div>
 																</div>
 																<div class="col-2">
 																	<p>Корпус:</p>
-																	<div>
+																	<div class="flex">
 		        														<input type="text" name="" class="form-control onlyNumber" min="1" maxlength="2" value="12">
 																	</div>
 																</div>
 																<div class="col-2">
 																	<p>Квартира:</p>
-																	<div>
+																	<div class="flex">
 		        														<input type="text" name="" class="form-control onlyNumber" min="1" maxlength="3" value="12">
 																	</div>
 																</div>
@@ -261,7 +261,9 @@
 											</div>
 											<div class="form-group">
 												<p>Комментарий:</p>
-												<input type="text" name="comment" class="form-control">
+												<div class="flex">
+													<input type="text" name="comment" class="form-control">
+												</div>
 											</div>
 										</div>
 

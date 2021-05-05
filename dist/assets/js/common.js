@@ -8,6 +8,7 @@ $(function() {
         quantityCounter()
         initBannersSlider()
         initOnlyNumber()
+        initTooltip()
     }
 
     function bindEvents() {
@@ -127,6 +128,10 @@ $(function() {
             $input.change();
             return false;
         });
+    }
+
+    function initTooltip() {
+        $('[data-toggle="tooltip"]').tooltip();
     }
 
     function initAccordion() {
