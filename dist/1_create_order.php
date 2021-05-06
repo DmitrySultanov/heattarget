@@ -24,7 +24,7 @@
 						<div class="order-container">
 							<div class="row">
 								<div class="col-lg-8">
-									<form action="" class="form">
+									<form action="" class="form js-form-order">
 										<div class="buttons-group">
 											<button type="button" class="btn btn-sm btn-default btn-hide">Скрыть наценку</button>
 											<button type="button" class="btn btn-sm btn-default btn-add">Добавить услугу</button>
@@ -278,7 +278,7 @@
 											</div>
 											<div class="row">
 												<div class="col">
-													<button type="submit" class="btn btn-secondary">Создать КП</button>
+													<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#placedKPModal">Создать КП</button>
 													<ul>
 														<li>Создать коммерческое предложение для Вашего клиента</li>
 													</ul>

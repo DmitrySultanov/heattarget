@@ -12,7 +12,13 @@ $(function() {
     }
 
     function bindEvents() {
-        $(document).on('click', '.js-address-view', toggleAddressText);
+        $(document).on('click', '.js-address-view', toggleAddressText)
+        $(document).on('submit', '.js-form-order', sendOrderFormHandler);
+    }
+
+    function sendOrderFormHandler(e) {
+        e.preventDefault();
+        $('#placedOrderModal').modal('show');
     }
 
     function initBannersSlider() {

@@ -24,7 +24,7 @@
 						<div class="order-container">
 							<div class="row">
 								<div class="col-lg-8">
-									<form action="" class="form">
+									<form action="" class="form js-form-order">
 										<div class="start-selection-container">
 											<button type="button" class="start-selection-btn">Начните подбор товаров</button>
 											<img src="assets/img/logo.png" alt=""/>
@@ -109,9 +109,17 @@
 											</div>
 											<div class="row">
 												<div class="col">
-													<button type="submit" class="btn btn-secondary">Создать КП</button>
+													<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#placedKPModal">Создать КП</button>
 													<ul>
 														<li>Создать коммерческое предложение для Вашего клиента</li>
+													</ul>
+												</div>
+											</div>
+											<div class="row">
+												<div class="col">
+													<button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#addServiceModal">Добавить услугу</button>
+													<ul>
+														<li>Показ модалки добавление услуги</li>
 													</ul>
 												</div>
 											</div>
@@ -119,7 +127,16 @@
 									</form>
 								</div>
 								<div class="col-lg-4">
-									<? include('inc/aside.php'); ?>
+									<aside class="aside">
+										<form action="" class="search-form">
+											<input type="text" name="search" class="form-control" placeholder="Поиск по наименованию или артикулу">
+											<button type="submit"></button>
+										</form>
+										<div class="not-found">
+											<img src="assets/img/not_found_icon.svg" alt="" />
+											<p>Ничего не найдено</p>
+										</div>
+									</aside>
 								</div>
 							</div>
 						</div>

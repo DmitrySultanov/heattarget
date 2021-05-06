@@ -9,7 +9,7 @@
 			<div>
 				<ul class="js-accordion">
 					<li>
-						<div>title</div>
+						<div>Насос</div>
 						<div>
 							<ul class="g-cards">
 				            	<li class="g-card">
@@ -29,7 +29,7 @@
 				            		</div>
 				            		<div class="row">
 				            			<div class="col-7">
-				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
+				            				<a href="#" class="g-card__name">Насос</a>
 				            			</div>
 				            			<div class="col-5 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
@@ -54,7 +54,7 @@
 				            		</div>
 				            		<div class="row">
 				            			<div class="col-7">
-				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
+				            				<a href="#" class="g-card__name">Насос</a>
 				            			</div>
 				            			<div class="col-5 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
