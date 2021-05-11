@@ -14,7 +14,7 @@
 		<div class="container">
 			<div class="content">
 				<div class="row">
-					<div class="col">
+					<div class="col-12 col-md-6">
 						<div class="caption">
 							<div class="flex">
 								<h1 class="caption__title _large">Возврат 8970 по заказу № 235235</h1>
@@ -23,7 +23,7 @@
 						</div>
 						<p data-toggle="tooltip" data-placement="top" title="Текст всплывающей подсказки Текст всплывающей подсказки Текст всплывающей подсказки">Пожалуйста заполните форму возврата товара</p>
 					</div>
-					<div class="col">
+					<div class="col-12 col-md-6">
 						<div class="cooment-area">
 							<p>Комментарий от нашего менеджера о необходимых доп. данных менеджера о необходимых доп. данных. </p>
 						</div>
@@ -44,9 +44,9 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-9">
+							<div class="col-md-9">
 								<div class="row">
-									<div class="col-6">
+									<div class="col-md-6">
 									    <div class="form-group">
 										    <p>Артикул:</p>
 										    <div class="flex">
@@ -55,7 +55,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-6">
+									<div class="col-md-6">
 										<div class="form-group">
 										    <p>Наименование:</p>
 										    <div class="flex">
@@ -64,7 +64,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-4">
+									<div class="col-md-4">
 									    <div class="form-group">
 										    <p>Цена:</p>
 										    <div class="flex">
@@ -73,7 +73,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-4">
+									<div class="col-md-4">
 										<div class="form-group">
 										    <p>Заводской номер:</p>
 										    <div class="flex">
@@ -82,7 +82,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-4">
+									<div class="col-md-4">
 										<div class="form-group">
 										    <p>Гарантийный талон:</p>
 										    <div class="flex">
@@ -97,7 +97,7 @@
 					</div>
 					<div class="form-section">
 						<div class="row">
-							<div class="col-12">
+							<div class="col">
 								<div class="caption caption--bordered">
 									<div class="flex">
 										<h2 class="caption__title">Информация о поставке</h2>
@@ -106,9 +106,9 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-9">
+							<div class="col-md-9">
 								<div class="row">
-									<div class="col-6">
+									<div class="col-md-6">
 									    <div class="form-group">
 										    <p>Доставка:</p>
 										    <div class="flex">
@@ -117,7 +117,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-6">
+									<div class="col-md-6">
 										<div class="form-group">
 										    <p>Название ТК:</p>
 										    <div class="flex">
@@ -132,7 +132,7 @@
 					</div>
 					<div class="form-section">
 						<div class="row">
-							<div class="col-12">
+							<div class="col">
 								<div class="caption caption--bordered">
 									<div class="flex">
 										<h2 class="caption__title">Информация о монтаже</h2>
@@ -141,9 +141,9 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-9">
+							<div class="col-md-9">
 								<div class="row">
-									<div class="col-4">
+									<div class="col-md-4">
 									    <div class="form-group">
 										    <p>Дата монтажа:</p>
 										    <div class="flex">
@@ -151,7 +151,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-8">
+									<div class="col-md-8">
 										<div class="form-group">
 										    <p>Монтажная организация:</p>
 										    <div class="flex">
@@ -160,7 +160,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-4">
+									<div class="col-md-4">
 									    <div class="form-group">
 										    <p>Дата ввода в экспуатацию:</p>
 										    <div class="flex">
@@ -168,7 +168,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-8">
+									<div class="col-md-8">
 										<div class="form-group">
 										    <p>Адрес монтажа:</p>
 										    <div class="flex">
@@ -183,7 +183,7 @@
 					</div>
 					<div class="form-section">
 						<div class="row">
-							<div class="col-12">
+							<div class="col">
 								<div class="caption caption--bordered">
 									<div class="flex">
 										<h2 class="caption__title">Информация о дефектах</h2>
@@ -192,9 +192,9 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-9">
+							<div class="col-md-9">
 								<div class="row">
-									<div class="col-3">
+									<div class="col-md-3">
 									    <div class="form-group">
 										    <p>Дата дефекта:</p>
 										    <div class="flex">
@@ -202,7 +202,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-9">
+									<div class="col-md-9">
 										<div class="form-group">
 										    <p>Целосность упаковки:</p>
 										    <div class="flex">
@@ -215,7 +215,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-12">
+									<div class="col-md-6">
 									    <div class="form-group">
 										    <p>Внешние дефекты:</p>
 										    <div class="flex">
@@ -223,7 +223,7 @@
 											</div>
 										</div>
 									</div>
-									<div class="col-12">
+									<div class="col-md-6">
 										<div class="form-group">
 										    <p>Внутренние дефекты:</p>
 										    <div class="flex">
@@ -238,7 +238,7 @@
 					</div>
 					<div class="form-section">
 						<div class="row">
-							<div class="col-12">
+							<div class="col">
 								<div class="caption caption--bordered">
 									<div class="flex">
 										<h2 class="caption__title">Комментарии</h2>
@@ -247,9 +247,9 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-12">
+							<div class="col">
 								<div class="row">
-									<div class="col-12">
+									<div class="col">
 									    <div class="form-group">
 										    <p>Ваш комментарий:</p>
 										    <div class="flex">
@@ -263,7 +263,7 @@
 					</div>
 					<div class="form-section">
 						<div class="row">
-							<div class="col-9">
+							<div class="col-md-9">
 								<div class="caption caption--bordered">
 									<div class="flex">
 										<h2 class="caption__title">Фотографии</h2>
@@ -272,9 +272,9 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-12">
+							<div class="col">
 								<div class="row">
-									<div class="col-6">
+									<div class="col-md-6">
 									    <div class="upload-group">
 									    	<p>Загрузите фото (шильдик внизу упаковки) - 1 шт</p>
 									    	<label for="wrwe">
@@ -294,7 +294,7 @@
 									    	</label>
 									    </div>
 									</div>
-									<div class="col-6">
+									<div class="col-md-6">
 									    <div class="upload-group">
 									    	<p>Загрузите фото (шильдик внизу упаковки) - 1 шт</p>
 									    	<label for="wrwe">

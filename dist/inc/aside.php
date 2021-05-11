@@ -28,10 +28,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Насос</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -53,10 +53,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Насос</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -92,10 +92,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -117,10 +117,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -149,10 +149,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -174,10 +174,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -213,10 +213,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -238,10 +238,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -270,10 +270,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -295,10 +295,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -334,10 +334,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -359,10 +359,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -384,10 +384,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -435,10 +435,10 @@
 							            			</div>
 							            		</div>
 							            		<div class="row">
-							            			<div class="col-7">
+							            			<div class="col-xl-7 col-6">
 							            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10 Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 							            			</div>
-							            			<div class="col-5 right">
+							            			<div class="col-xl-5 col-6 right">
 							            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 							            				<? include('inc/quantitat.php'); ?>
 							            			</div>
@@ -460,10 +460,10 @@
 							            			</div>
 							            		</div>
 							            		<div class="row">
-							            			<div class="col-7">
+							            			<div class="col-xl-7 col-6">
 							            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 							            			</div>
-							            			<div class="col-5 right">
+							            			<div class="col-xl-5 col-6 right">
 							            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 							            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 							            			</div>
@@ -485,10 +485,10 @@
 							            			</div>
 							            		</div>
 							            		<div class="row">
-							            			<div class="col-7">
+							            			<div class="col-xl-7 col-6">
 							            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 							            			</div>
-							            			<div class="col-5 right">
+							            			<div class="col-xl-5 col-6 right">
 							            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 							            				<? include('inc/quantitat.php'); ?>
 							            			</div>
@@ -510,10 +510,10 @@
 							            			</div>
 							            		</div>
 							            		<div class="row">
-							            			<div class="col-7">
+							            			<div class="col-xl-7 col-6">
 							            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 							            			</div>
-							            			<div class="col-5 right">
+							            			<div class="col-xl-5 col-6 right">
 							            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 							            				<? include('inc/quantitat.php'); ?>
 							            			</div>
@@ -535,10 +535,10 @@
 							            			</div>
 							            		</div>
 							            		<div class="row">
-							            			<div class="col-7">
+							            			<div class="col-xl-7 col-6">
 							            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 							            			</div>
-							            			<div class="col-5 right">
+							            			<div class="col-xl-5 col-6 right">
 							            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 							            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 							            			</div>
@@ -560,10 +560,10 @@
 							            			</div>
 							            		</div>
 							            		<div class="row">
-							            			<div class="col-7">
+							            			<div class="col-xl-7 col-6">
 							            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 							            			</div>
-							            			<div class="col-5 right">
+							            			<div class="col-xl-5 col-6 right">
 							            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 							            				<? include('inc/quantitat.php'); ?>
 							            			</div>
@@ -602,10 +602,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -627,10 +627,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -652,10 +652,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -691,10 +691,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -716,10 +716,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -741,10 +741,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -780,10 +780,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -805,10 +805,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -830,10 +830,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -869,10 +869,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>
@@ -894,10 +894,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<a href="#" class="btn btn-primary btn-sm">В корзину</a>
 				            			</div>
@@ -919,10 +919,10 @@
 				            			</div>
 				            		</div>
 				            		<div class="row">
-				            			<div class="col-7">
+				            			<div class="col-xl-7 col-6">
 				            				<a href="#" class="g-card__name">Циркуляционный насос UPS 32-120 F 3x400-415 PN6/10</a>
 				            			</div>
-				            			<div class="col-5 right">
+				            			<div class="col-xl-5 col-6 right">
 				            				<div class="g-card__cost"><strong>€1 310 800.08</strong></div>
 				            				<? include('inc/quantitat.php'); ?>
 				            			</div>

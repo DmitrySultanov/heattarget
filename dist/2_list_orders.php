@@ -38,8 +38,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-in-processing">В обработке</span></td>
 										<td>
@@ -52,8 +52,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-denied"></span></td>
 										<td><span class="status status-denied">Отменен</span></td>
 										<td>
@@ -66,8 +66,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-ordered-supplier">Заказан поставщику</span></td>
 										<td>
@@ -80,8 +80,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-reserve">В резерве</span></td>
 										<td>
@@ -94,8 +94,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-partially-shipped">Частично отгружен</span></td>
 										<td>
@@ -108,8 +108,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-shipped">Отгpужен</span></td>
 										<td>
@@ -122,8 +122,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-in-processing">В обработке</span></td>
 										<td>
@@ -136,8 +136,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-in-processing">В обработке</span></td>
 										<td>
@@ -150,8 +150,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-in-processing">В обработке</span></td>
 										<td>
@@ -164,8 +164,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-in-processing">В обработке</span></td>
 										<td>
@@ -178,8 +178,8 @@
 										<td>
 											<a href="#">24525</a>
 										</td>
-										<td>22.01.2021</td>
-										<td>98 678.34</td>
+										<td><nobr>22.01.2021</nobr></td>
+										<td><nobr>98 678.34</nobr></td>
 										<td class="center"><span class="pay-status pay-status-check"></span></td>
 										<td><span class="status status-in-processing">В обработке</span></td>
 										<td>

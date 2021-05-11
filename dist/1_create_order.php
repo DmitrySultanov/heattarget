@@ -203,7 +203,7 @@
 											<a class="address-view js-address-view" data-toggle="collapse" href="#collapseAddressForm" aria-expanded="false" aria-controls="collapseAddressForm">Показать адрес объекта</a>
 											<div class="collapse" id="collapseAddressForm">
 												<div class="row">
-													<div class="col-10">
+													<div class="col-xl-10 col-lg-10 col-md-12">
 														<div class="form-group">
 															<p>Регион доставки:</p>
 															<div class="flex">
@@ -226,7 +226,7 @@
 														</div>	
 														<div class="form-group">
 															<div class="row no-gutters">
-																<div class="col-6">
+																<div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
 																	<p>Улица:</p>
 																	<div class="flex">
 		        														<select name="delivery-street" class="select-single" style="width: 100%;">
@@ -236,19 +236,19 @@
 		        														</select>
 																	</div>
 																</div>
-																<div class="col-2">
+																<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
 																	<p>Дом:</p>
 																	<div class="flex">
 		        														<input type="text" name="" class="form-control onlyNumber" min="1" maxlength="3" value="12">
 																	</div>
 																</div>
-																<div class="col-2">
+																<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
 																	<p>Корпус:</p>
 																	<div class="flex">
 		        														<input type="text" name="" class="form-control onlyNumber" min="1" maxlength="2" value="12">
 																	</div>
 																</div>
-																<div class="col-2">
+																<div class="col-xl-2 col-lg-2 col-md-2 col-sm-12">
 																	<p>Квартира:</p>
 																	<div class="flex">
 		        														<input type="text" name="" class="form-control onlyNumber" min="1" maxlength="3" value="12">
